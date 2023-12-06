@@ -5,4 +5,4 @@ execution
 scenarios: 
   quick-test:
     requests: 
-      - http: www.test.com
+      - http: www.test-app.com
