@@ -1,0 +1,8 @@
+execution
+- concurrency: 25
+  scenario: quick-test
+
+scenarios: 
+  quick-test:
+    requests: 
+      - http: www.fb.com
